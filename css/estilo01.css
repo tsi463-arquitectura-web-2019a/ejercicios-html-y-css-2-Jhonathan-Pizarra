@@ -1,0 +1,58 @@
+body{
+    background-color: #7C8B88;
+
+}
+
+.fondo_blanco{
+    background-color: white;
+    height: 940px;
+
+
+}
+
+.contenido{
+    margin-top: 60px;
+    padding-top: 200px;
+}
+
+.My_Favorite_App{
+    background-color: #33BEBE;
+    color: white;
+    /*Textp*/
+    text-transform: uppercase;
+    text-align-last: left;
+    font-size: 50px;
+    /*Dimensiones*/
+    padding-top: 35px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+    margin-left: 200px;
+    /*Ancho y Alto*/
+    height: 20px;
+    width: 867px;
+}
+
+.Imagen{
+    padding-top: 50px;
+    margin-left: 200px;
+    
+    
+}
+
+.Imagen:hover{
+    filter: sepia(60%);
+    transition-duration: 1s;
+    transition-property: 30;
+
+}
+
+.texto{
+    width: 453px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: #7C8B88;
+    position: absolute;
+    top: 410px;
+    left: 600px;
+
+}
